@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml:2:1-110
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml:2:1-110
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml:2:1-110
+	package
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml:2:70-108
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/src/androidMain/AndroidManifest.xml

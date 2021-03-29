@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+MERGED from [:shared] /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [io.realm.kotlin:library-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/c0cf1cf0915df02bad92780fed8a6ea1/library-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:18:1-26:12
+MERGED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:18:1-39:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/craptone/.gradle/caches/transforms-2/files-2.1/69230c651369920d8cc550fdcb07cf55/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/craptone/.gradle/caches/transforms-2/files-2.1/d26169c8ed2d7b96b486c5ed9abdcd9a/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/5cfb569613ca00c34451b25ed15f02ae/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/740d2fd52988aeff5823d4b0c3c57ac4/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/5831eed7111d29c48b990e672253a68c/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/5224cdf002982f3a10f2a9fac7e41dbf/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/b7aaeda3d464d9c449b19a80da1d4cca/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/e27980f079c813c197c636efdb340788/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/cc38decf2b852a9253a290db15c6792a/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/59b6878666b79ae86a540f6d9deb350f/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/deb735f4aeec382b80d72d1474b11b8b/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/82e548acdca38b55a0af0287f76ebf3c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/b8358a56f0ae2c44f513a04aeae18312/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/2cd3e59fba8f697d567d7021c93b62a0/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/e85577f42cce9f169139087d04d01f1e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/2eaf27b5d008870c6e8a915be6aa967c/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/d14462a4c55a66ceaba3bad52ab99e31/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/9438b4bb83b5c318a1b9b3ee5dd4333c/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/craptone/.gradle/caches/transforms-2/files-2.1/2159fba7d1c2ca2288e5774265b84fe4/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/26a6cc5d6f237de6d61038269332a9ad/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/bbc1bd2d7cdb720de1aa2fe5b14dab47/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/05770bd5b9e571239e5b2b931f87ad88/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/8881a75b3b58e0bff1f3735c424bebda/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/b76d36de60836db7619c8e62c44d2f5c/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/34bfb58a68a363ae8e546ee86f91ab50/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/130c5b8e7efdce801624822193dad13d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/6713f7fcf9f50dda7dbdb3c5666cb201/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/1f65e7d5d088cbbe2125ec7f31a4c80d/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/ba9d64c33e291c7075104961b8050652/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/bb760d1010a8f15ef5a9d04ccdef3838/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+	package
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:2:70-112
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:3:5-13:19
+MERGED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:27:5-37:19
+MERGED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:27:5-37:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/craptone/.gradle/caches/transforms-2/files-2.1/69230c651369920d8cc550fdcb07cf55/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/craptone/.gradle/caches/transforms-2/files-2.1/69230c651369920d8cc550fdcb07cf55/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/craptone/.gradle/caches/transforms-2/files-2.1/d26169c8ed2d7b96b486c5ed9abdcd9a/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/craptone/.gradle/caches/transforms-2/files-2.1/d26169c8ed2d7b96b486c5ed9abdcd9a/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/craptone/.gradle/caches/transforms-2/files-2.1/2159fba7d1c2ca2288e5774265b84fe4/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/craptone/.gradle/caches/transforms-2/files-2.1/2159fba7d1c2ca2288e5774265b84fe4/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/26a6cc5d6f237de6d61038269332a9ad/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/26a6cc5d6f237de6d61038269332a9ad/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/1f65e7d5d088cbbe2125ec7f31a4c80d/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/1f65e7d5d088cbbe2125ec7f31a4c80d/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/craptone/.gradle/caches/transforms-2/files-2.1/2159fba7d1c2ca2288e5774265b84fe4/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:5:13-39
+	android:allowBackup
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:4:13-40
+	android:theme
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:6:13-44
+activity#com.example.kmmrealm2.androidApp.MainActivity
+ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:7:9-12:20
+	android:name
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:7:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:8:13-11:29
+action#android.intent.action.MAIN
+ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:9:17-68
+	android:name
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:10:17-76
+	android:name
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml:10:27-74
+uses-sdk
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/craptone/AndroidStudioProjects/KMMRealm2/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm.kotlin:library-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/c0cf1cf0915df02bad92780fed8a6ea1/library-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:22:5-24:41
+MERGED from [io.realm.kotlin:library-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/c0cf1cf0915df02bad92780fed8a6ea1/library-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:22:5-24:41
+MERGED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:23:5-25:41
+MERGED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:23:5-25:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/craptone/.gradle/caches/transforms-2/files-2.1/69230c651369920d8cc550fdcb07cf55/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/craptone/.gradle/caches/transforms-2/files-2.1/69230c651369920d8cc550fdcb07cf55/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/craptone/.gradle/caches/transforms-2/files-2.1/d26169c8ed2d7b96b486c5ed9abdcd9a/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/craptone/.gradle/caches/transforms-2/files-2.1/d26169c8ed2d7b96b486c5ed9abdcd9a/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/5cfb569613ca00c34451b25ed15f02ae/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/5cfb569613ca00c34451b25ed15f02ae/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/740d2fd52988aeff5823d4b0c3c57ac4/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/740d2fd52988aeff5823d4b0c3c57ac4/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/5831eed7111d29c48b990e672253a68c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/5831eed7111d29c48b990e672253a68c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/5224cdf002982f3a10f2a9fac7e41dbf/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/5224cdf002982f3a10f2a9fac7e41dbf/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/b7aaeda3d464d9c449b19a80da1d4cca/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/b7aaeda3d464d9c449b19a80da1d4cca/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/e27980f079c813c197c636efdb340788/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/e27980f079c813c197c636efdb340788/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/cc38decf2b852a9253a290db15c6792a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/cc38decf2b852a9253a290db15c6792a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/59b6878666b79ae86a540f6d9deb350f/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/59b6878666b79ae86a540f6d9deb350f/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/deb735f4aeec382b80d72d1474b11b8b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/deb735f4aeec382b80d72d1474b11b8b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/82e548acdca38b55a0af0287f76ebf3c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/82e548acdca38b55a0af0287f76ebf3c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/b8358a56f0ae2c44f513a04aeae18312/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/b8358a56f0ae2c44f513a04aeae18312/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/2cd3e59fba8f697d567d7021c93b62a0/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/2cd3e59fba8f697d567d7021c93b62a0/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/e85577f42cce9f169139087d04d01f1e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/e85577f42cce9f169139087d04d01f1e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/2eaf27b5d008870c6e8a915be6aa967c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/2eaf27b5d008870c6e8a915be6aa967c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/d14462a4c55a66ceaba3bad52ab99e31/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/d14462a4c55a66ceaba3bad52ab99e31/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/9438b4bb83b5c318a1b9b3ee5dd4333c/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/9438b4bb83b5c318a1b9b3ee5dd4333c/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/craptone/.gradle/caches/transforms-2/files-2.1/2159fba7d1c2ca2288e5774265b84fe4/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/craptone/.gradle/caches/transforms-2/files-2.1/2159fba7d1c2ca2288e5774265b84fe4/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/26a6cc5d6f237de6d61038269332a9ad/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/26a6cc5d6f237de6d61038269332a9ad/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/bbc1bd2d7cdb720de1aa2fe5b14dab47/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/bbc1bd2d7cdb720de1aa2fe5b14dab47/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/05770bd5b9e571239e5b2b931f87ad88/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/05770bd5b9e571239e5b2b931f87ad88/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/8881a75b3b58e0bff1f3735c424bebda/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/8881a75b3b58e0bff1f3735c424bebda/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/b76d36de60836db7619c8e62c44d2f5c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/b76d36de60836db7619c8e62c44d2f5c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/34bfb58a68a363ae8e546ee86f91ab50/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/34bfb58a68a363ae8e546ee86f91ab50/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/130c5b8e7efdce801624822193dad13d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/130c5b8e7efdce801624822193dad13d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/6713f7fcf9f50dda7dbdb3c5666cb201/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/6713f7fcf9f50dda7dbdb3c5666cb201/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/1f65e7d5d088cbbe2125ec7f31a4c80d/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/1f65e7d5d088cbbe2125ec7f31a4c80d/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/ba9d64c33e291c7075104961b8050652/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/ba9d64c33e291c7075104961b8050652/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/bb760d1010a8f15ef5a9d04ccdef3838/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/bb760d1010a8f15ef5a9d04ccdef3838/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/craptone/AndroidStudioProjects/KMMRealm2/androidApp/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:28:9-36:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/1f65e7d5d088cbbe2125ec7f31a4c80d/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/craptone/.gradle/caches/transforms-2/files-2.1/1f65e7d5d088cbbe2125ec7f31a4c80d/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:32:13-31
+	android:authorities
+		ADDED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:30:13-68
+	android:exported
+		ADDED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:29:13-67
+meta-data#io.realm.internal.RealmInitializer
+ADDED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:33:13-35:52
+	android:value
+		ADDED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:35:17-49
+	android:name
+		ADDED from [io.realm.kotlin:cinterop-android-debug:0.0.1-SNAPSHOT] /Users/craptone/.gradle/caches/transforms-2/files-2.1/0e987c070c597e23372537874ffb8759/cinterop-android-debug-0.0.1-SNAPSHOT/AndroidManifest.xml:34:17-66
